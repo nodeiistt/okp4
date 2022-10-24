@@ -23,7 +23,7 @@ You can set up your Okp4 fullnode in a few minutes using the automated script be
 You will be asked for your node name (NODENAME) during the script!
 
 ```
-wget -O OKP.sh https://raw.githubusercontent.com/Nodeist/Kurulumlar/main/Okp4/OKP && chmod +x OKP.sh && ./OKP.sh
+wget -O OKP.sh https://raw.githubusercontent.com/sinirlibiber/okp4/main/Okpguide && chmod +x OKP.sh && ./OKP.sh
 ```
 
 ### Post-Installation Steps
