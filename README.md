@@ -3,19 +3,12 @@
 
 # Okp4 Installation Guide
 ## Hardware Requirements
-Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 
-### Minimum Hardware Requirements
-  - 3x CPU; the higher the clock speed the better
-  - 4GB of RAM
-  - 80GB Disk
-  - Persistent Internet connection (traffic will be minimum 10Mbps during testnet - at least 100Mbps expected for production)
 
 ### Recommended Hardware Requirements
   - 4x CPU; the higher the clock speed the better
   - 8GB of RAM
   - 200 GB storage (SSD or NVME)
-  - Persistent Internet connection (traffic will be minimum 10Mbps during testnet - at least 100Mbps expected for production)
 
 ## Okp4 Full Node Installation Steps
 ### Automatic Installation with a Single Script
